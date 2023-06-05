@@ -13,10 +13,6 @@ To complete this project, the following requirements must be met:
 - Display a new random quote when the user clicks a button.
 - Allow the user to share the displayed quote on social media platforms.
 
-## Live Demo
-
-A live demo of the project can be accessed [here](https://random-quote-machine.freecodecamp.rocks/).
-
 ## Technologies Used
 
 The project is built using the following technologies:
