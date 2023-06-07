@@ -1,4 +1,4 @@
-# FCC_Frontend_Project1
+# FCC_Frontend_Project 1
 
 This project is part of the FreeCodeCamp's Front End Development Libraries course. It is the final project in the course's curriculum and focuses on using jQuery to replicate the functionality of the provided sample project.
 
