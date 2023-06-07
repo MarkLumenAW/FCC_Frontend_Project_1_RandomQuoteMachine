@@ -30,8 +30,3 @@ The project is complete and meets all the requirements outlined in the course cu
 
 - This project is part of the FreeCodeCamp's Front End Development Libraries course.
 - The sample project and project requirements are provided by FreeCodeCamp.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
