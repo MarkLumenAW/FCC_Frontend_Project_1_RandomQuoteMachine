@@ -244,7 +244,7 @@ const quotes = [
   },
   {
     id: 49,
-    text: "We need to start work with the idea that we’re going to learn every day. I learn, even at my position, every single day.",
+    text: "We need to start work with the idea that we are going to learn every day. I learn, even at my position, every single day.",
     source: "Chanda Kochhar"
   },
   {
